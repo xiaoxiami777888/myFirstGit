@@ -2,3 +2,4 @@ push first file .
 the version x64 is too bad with ssh socket problems so change to x32 version
 recive this ,you can pull.
 No Blue !
+I know !
